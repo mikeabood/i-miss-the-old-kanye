@@ -44,7 +44,7 @@ header {
 	padding-left: 80px;
 	display: block;
 }
-
+  
 #start{
   font-family: 'Press Start 2P', cursive;
   text-decoration: none; 
@@ -199,4 +199,3 @@ header {
   background-image: linear-gradient(to bottom, #81c8f7, #3498db);
   text-decoration: none;
 }
-
