@@ -19,7 +19,7 @@ checkAnswer: function(action){
       this.level2()
 }
 
- 	else if(action === "die"){
+  else if(action === "die"){
     	this.die()
 	}
 
