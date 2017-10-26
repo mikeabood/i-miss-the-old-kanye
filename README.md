@@ -8,6 +8,4 @@
 
 Technologies Used: HTML, CSS, Javascript. 
 
-Unfinished/Expand on: The game is finished, but I would like to go back in and touch up a few things. Maybe add some sound clips/snippets. Possibly change the topic of the game to better suit portfolio purpuses. I would also like to find a way to incorporate more coding languages, such as, jQuery, AJAX, and API's.
-
 [wireframe]: https://github.com/mikeabood/mikeabood.io/blob/master/images/wireframe/wireframe.jpg "WF Title Text 2"
